@@ -1,0 +1,32 @@
+.nav>li>a{
+    padding: 17px 20px;
+  }
+  /*.container {
+      padding-top: 70px;
+  }*/
+
+.navbar-brand{
+  margin-left: 100px;
+
+}
+.navbar-inverse{
+    background-color: #4f8cff;
+}
+.navbar-inverse .navbar-brand{
+    color: #fff;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+.jumbotron p {
+    font-family: 'Kameron', serif;
+    font-size: 18px;
+}
+.bod{
+  background-color: #f4f7f9;
+  padding-top: 70px;
+}
+p{
+  font-family: 'Kameron', serif;
+  font-size: 18px;
+}
