@@ -1,9 +1,10 @@
+
 .nav>li>a{
     padding: 17px 20px;
   }
-  /*.container {
+  .container-padding {
       padding-top: 70px;
-  }*/
+  }
 
 .navbar-brand{
   margin-left: 100px;
